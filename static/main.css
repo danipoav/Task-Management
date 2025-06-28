@@ -8,3 +8,8 @@ background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, F
 .titulo{
     font-family: 'Permanent Marker',cursive;
 }
+
+.tarea_hecha {
+text-decoration: line-through;
+color: #cfcfcf;
+}
